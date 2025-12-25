@@ -1,2 +1,2 @@
-# ogrenci-yonetim-sistemi
+# hesap-makinesi
 Öğrencilerin kullanabileceği yönetim sistemi
